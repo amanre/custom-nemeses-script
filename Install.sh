@@ -52,6 +52,8 @@ sh software-AUR-repo*
 sh mpd-ncmpcpp*
 #sh zram.sh*
 sh fstrim.sh*
+#sh delete-all-desktop-themes.sh*
+#sh install-all-desktop-themes*
 
 
 echo
