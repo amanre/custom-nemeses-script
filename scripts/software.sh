@@ -24,7 +24,7 @@ echo
 
 
 PKGS=(
-
+grub-customizer
 catppuccin-icons
 pywal-conky-git
 tokyonight-icons
