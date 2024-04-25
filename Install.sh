@@ -43,7 +43,6 @@ echo
     installed_dir=$(dirname $(readlink -f $(basename `pwd`)))
 cd $installed_dir/scripts
 sh software.sh*
-sh install-all-desktop-themes*
 #sh install-xfce-themes-for-notebook*
 #sh install-xfce-themes-for-notebook-1366x768*
 sh install-bspwm*
