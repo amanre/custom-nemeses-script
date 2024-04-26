@@ -40,7 +40,7 @@ sudo pacman -S thunder-xfce-theme --noconfirm
 sudo pacman -S tokionight-xfce-theme --noconfirm
 sudo pacman -S urbanangel-xfce-theme --noconfirm
 sudo pacman -S view-xfce-theme --noconfirm
-
+sudo pacman -S operahouse-xfce-theme --noconfirm
 echo
 tput setaf 2
 echo "################################################################"
