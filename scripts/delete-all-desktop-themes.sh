@@ -41,6 +41,7 @@ sudo pacman -Rs tokionight-xfce-theme --noconfirm
 sudo pacman -Rs urbanangel-xfce-theme --noconfirm
 sudo pacman -Rs view-xfce-theme --noconfirm
 #sudo pacman -Rs walls --noconfirm
+sudo pacman -Rs ~/.config/xfce-themes
 echo
 tput setaf 2
 echo "################################################################"

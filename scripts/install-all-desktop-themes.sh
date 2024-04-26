@@ -41,6 +41,11 @@ sudo pacman -S tokionight-xfce-theme --noconfirm
 sudo pacman -S urbanangel-xfce-theme --noconfirm
 sudo pacman -S view-xfce-theme --noconfirm
 sudo pacman -S operahouse-xfce-theme --noconfirm
+
+sudo pacman -S archlinux-appstream-data --noconfirm
+cp -Rf ~/.config ~/.config-backup-$(date +%Y.%m.%d-%H.%M.%S)
+cp -arf /etc/skel/. ~
+
 echo
 tput setaf 2
 echo "################################################################"
