@@ -73,6 +73,9 @@ imagewriter
 qbittorrent
 kdocker
 kshutdown
+timeshift
+timeshift-autosnap
+grub-btrfs
 
 )
 
